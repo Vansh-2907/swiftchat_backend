@@ -15,3 +15,5 @@ yt-dlp
 ffmpeg
 numpy
 pandas
+dj-database-url
+whitenoise
