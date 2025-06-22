@@ -4,11 +4,3 @@ django-cors-headers==4.7.0
 whitenoise==6.9.0
 dj-database-url
 gunicorn
-bcrypt
-cryptography
-paramiko
-PyNaCl
-pycryptodome
-pysnmp
-numpy
-pandas
