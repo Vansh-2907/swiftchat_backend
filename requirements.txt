@@ -9,11 +9,6 @@ cryptography
 paramiko
 PyNaCl
 pycryptodome
-python-nmap
 pysnmp
-yt-dlp
-ffmpeg
 numpy
 pandas
-dj-database-url
-whitenoise
